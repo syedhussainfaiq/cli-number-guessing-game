@@ -1,0 +1,21 @@
+{
+  "name": "cli-number-guessing-game",
+  "version": "1.0.0",
+  "description": "This is Cli based numbers Guessing Game",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "cli-number-guessing-game"
+  },
+  "author": "Hussain",
+  "license": "MIT",
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "inquirer": "^9.2.17"
+  }
+}
